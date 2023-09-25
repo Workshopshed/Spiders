@@ -1,4 +1,4 @@
-see# Spiders
+# Spiders
 A halloween project involving LEDs, smoke generators and spiders.
 
 ## Pulse Counting

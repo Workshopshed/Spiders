@@ -12,5 +12,10 @@ To replace the remote, I wanted to replace like for like, so the switch became a
 
 ![Smoke Control](SmokeControl.png)
 
-## Pulse Counting
-The code example PulseCounter.py shows how you can do a very rough frequency check by counting the number of pulses in a fixed period. For this project it was about determining if a mains voltage was present or not.  
+### Code
+The code example PulseCounter.py shows how you can do a very rough frequency check by counting the number of pulses in a fixed period. For this project it was about determining if a mains voltage was present or not.
+
+This is then used in SmokeController.py which is a more complete example.
+
+## Lights Controller
+A second circuit was created to control the LED effects. This randomly flashes the LEDs once triggered by the motion sensor.

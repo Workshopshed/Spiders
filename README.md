@@ -10,7 +10,7 @@ The device consisteded of a heater, pump and thermal switch. The remote was two 
 ## Microcontroller remote
 To replace the remote, I wanted to replace like for like, so the switch became a relay and the LEDs became an opto-coupler.
 
-![Reverse Engineered](ReverseEngineered.png)
+![Smoke Control](SmokeControl.png)
 
 ## Pulse Counting
 The code example PulseCounter.py shows how you can do a very rough frequency check by counting the number of pulses in a fixed period. For this project it was about determining if a mains voltage was present or not.  
